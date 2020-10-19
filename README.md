@@ -50,7 +50,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Gerenciador de pacotes (Npm ou Yarn) 
 
 
-### 👾 Clonando o Repositório
+### :octocat: Clonando o Repositório
 
 ```bash
 
