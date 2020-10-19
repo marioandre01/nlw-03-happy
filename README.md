@@ -1,5 +1,3 @@
-# nlw-03-happy
-
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=15C3D6&labelColor=000000" alt="PRs welcome!" />
 
@@ -26,6 +24,26 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeScript](https://www.typescriptlang.org/)
 <!-- - [React Native](https://facebook.github.io/react-native/) -->
 <!-- - [Expo](https://expo.io/) -->
+
+#### Web:
+- Typescript
+- ReactJS ⚛️
+- React Router Dom
+- React Icons
+- Leaflet 🍃
+- API do Mapbox 🗺️
+- Axios
+
+#### Backend:
+ - Typescript
+ - NodeJS
+ - Express
+ - Express Async Errors
+ - TypeORM
+ - SQLite
+ - Multer
+ - Yup
+ - Cors
 
 ## 🎨 Layout
 
@@ -93,7 +111,43 @@ $ yarn start
 $ npm start
 
 ```
+Caso você tenha uma conta no [mapbox](https://www.mapbox.com/), pode usar seu token para utilizar o mapa da aplicação. No entanto, se você não quiser 
+ter este trabalho, sem problemas, por padrão já tem um mapa configurado para uso.
 
+Caso queira, vá para a seção do <a href="#-mapbox">Mapbox</a>.
+
+### 🌐 Rodando o Servidor
+
+Entre na pasta
+
+```bash
+
+$ cd backend
+
+```
+Instale as dependências
+
+```bash
+
+$ yarn
+
+# ou, caso use npm
+
+$ npm install
+
+```
+
+Rode o servidor
+
+```bash
+
+$ yarn dev
+
+# ou, caso use npm
+
+$ npm dev
+
+```
 
 ## :memo: Licença
 
