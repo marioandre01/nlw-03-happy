@@ -54,7 +54,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ```bash
 
-$ git clone https://github.com/karlos-silva/nlw-happy.git
+$ git clone https://github.com/marioandre01/nlw-03-happy.git
 
 # entre na pasta do projeto
 
