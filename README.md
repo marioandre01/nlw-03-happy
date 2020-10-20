@@ -4,13 +4,12 @@
 
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=15C3D6&labelColor=000000" alt="PRs welcome!" />
-
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=15C3D6&labelColor=000000">
+ <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=15C3D6&labelColor=000000">
 </p>
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<p align="center"> 
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -23,15 +22,9 @@ O Happy é uma aplicação que conecta pessoas à casas de acolhimento instituci
 
 O projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
-- [TypeScript](https://www.typescriptlang.org/)
-<!-- - [React Native](https://facebook.github.io/react-native/) -->
-<!-- - [Expo](https://expo.io/) -->
-
 #### Web - Frontend:
-- ReactJS 
-- Typescript
+- [ReactJS](https://reactjs.org)
+- [Typescript](https://www.typescriptlang.org/)
 - React Icons
 - React Router Dom
 - Leaflet 
@@ -39,15 +32,19 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - Axios
 
 #### Backend:
-- NodeJS
+- [NodeJS](https://nodejs.org/en/)
 - Express
-- Typescript
+- [Typescript](https://www.typescriptlang.org/)
 - Express Async Errors
 - TypeORM
 - SQLite
 - Multer
 - Yup
 - Cors
+
+#### mobile:
+[React Native](https://facebook.github.io/react-native/)
+[Expo](https://expo.io/)
  
 ## 🎨 Layout
 
@@ -61,27 +58,23 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 ### Mobile 📱
 Em desenvolvimento...
 
-## 💻 Executando o Happy
+## 💻 Executando a aplicação Happy
 
-### Pré-requisitos
+### Requisitos necessários
 
-É necessário ter instalado na sua máquina para execução desse projeto:
+Para executar o projeto é necessário ter instalado em seu sistema:
 - NodeJS
-- Gerenciador de pacotes (Npm ou Yarn) 
-
+- Gerenciador de pacotes Npm ou Yarn 
 
 ### :octocat: Clonando o Repositório
 
 ```bash
-
 $ git clone https://github.com/marioandre01/nlw-03-happy.git
 
 # entre na pasta do projeto
-
-$ cd nlw-happy
-
+$ cd nlw-03-happy
 ```
-### 💻 Rodando o Happy web
+### 💻 Executando o Happy web
 
 Entre na pasta
 
@@ -96,29 +89,23 @@ Instale as dependências
 
 $ yarn
 
-# ou, caso use npm
-
+# ou pelo npm
 $ npm install
 
 ```
 
-Rode a aplicação
+Execute a aplicação
 
 ```bash
 
 $ yarn start
 
-# ou, caso use npm
+# ou pelo npm
 
 $ npm start
 
 ```
-Caso você tenha uma conta no [mapbox](https://www.mapbox.com/), pode usar seu token para utilizar o mapa da aplicação. No entanto, se você não quiser 
-ter este trabalho, sem problemas, por padrão já tem um mapa configurado para uso.
-
-Caso queira, vá para a seção do <a href="#-mapbox">Mapbox</a>.
-
-### 🌐 Rodando o Servidor
+### 🌐 Executando o Servidor
 
 Entre na pasta
 
@@ -133,19 +120,19 @@ Instale as dependências
 
 $ yarn
 
-# ou, caso use npm
+# ou pelo npm
 
 $ npm install
 
 ```
 
-Rode o servidor
+Execute o servidor
 
 ```bash
 
 $ yarn dev
 
-# ou, caso use npm
+# ou pelo npm
 
 $ npm dev
 
