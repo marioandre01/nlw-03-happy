@@ -7,7 +7,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-executando-a-aplicação-happy">Executando a aplicação Happy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-contribuiçao">Contribuiçao</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contribuição">Contribuição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -195,7 +195,7 @@ Depois de fazer isso, irá abrir o metro bundler no seu navegador. A partir de a
 Se tudo deu certo, o app deve estar disponível agora! 👩🏽‍🔧
 -->
 
-## ⚙️ Contribuiçao
+## ⚙️ Contribuição
 
 Para contribuir com esse projeto faça os seguintes passos:
 
