@@ -2,10 +2,10 @@
     <img alt="Happy" title="Happy" src="imgs/logo_happy.png" />
 </h1>
 
-<p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=15C3D6&labelColor=000000" alt="PRs welcome!" />
- <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=15C3D6&labelColor=000000">
-</p>
+![](https://img.shields.io/github/license/marioandre01/nlw-03-happy)
+![](https://img.shields.io/github/forks/marioandre01/nlw-03-happy)
+![](https://img.shields.io/github/stars/marioandre01/nlw-03-happy)
+
 
 <p align="center"> 
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -163,5 +163,5 @@ git push origin minha_feature
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENCE](./LICENCE.md) para mais detalhes.
 
