@@ -1,10 +1,11 @@
 <h1 align="center">
     <img alt="Happy" title="Happy" src="imgs/logo_happy.png" />
 </h1>
-
-![](https://img.shields.io/github/license/marioandre01/nlw-03-happy)
-![](https://img.shields.io/github/forks/marioandre01/nlw-03-happy)
-![](https://img.shields.io/github/stars/marioandre01/nlw-03-happy)
+<p align="center">
+    ![](https://img.shields.io/github/license/marioandre01/nlw-03-happy)
+    ![](https://img.shields.io/github/forks/marioandre01/nlw-03-happy)
+    ![](https://img.shields.io/github/stars/marioandre01/nlw-03-happy)
+</p>
 
 
 <p align="center"> 
@@ -16,7 +17,7 @@
 
 ## 💻 Projeto
 Este projeto foi desenvolvido durante a 3º edição do evento Next Level Week - nlw-03 da [Rocketseat](https://rocketseat.com.br/).
-O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional (Orfanatos) para fazer o dia de muitas crianças mais feliz! 😄 :heart:. A proposta de desenvolvimento foi em fazer a aplicação para o ambiente web e mobile. A versão web foi finalizada, mas a versão mobile ainda vai ser desenvolvida.
+O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional (Orfanatos) para fazer o dia de muitas crianças mais feliz! 😄 :heart:. A proposta teve como objetivo o desenvolvimento da aplicação para o ambiente web e mobile. A versão web foi finalizada, mas a versão mobile ainda vai ser desenvolvida.
 
 ## 📋 Tecnologias
 
