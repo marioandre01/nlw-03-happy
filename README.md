@@ -1,13 +1,14 @@
-<h1 align="center">
-    <img alt="Happy" title="Happy" src="imgs/logo_happy.png" />
-</h1>
-
 [![Author](https://img.shields.io/badge/author-marioandre01-ff9000?style=flat-square)](https://github.com/marioandre01)
 [![Languages](https://img.shields.io/github/languages/count/marioandre01/nlw-03-happy?color=%23ff9000&style=flat-square)](#)
 [![Stars](https://img.shields.io/github/stars/marioandre01/nlw-03-happy?color=ff9000&style=flat-square)](https://github.com/marioandre01/nlw-03-happy/stargazers)
 [![Forks](https://img.shields.io/github/forks/marioandre01/nlw-03-happy?color=%23ff9000&style=flat-square)](https://github.com/marioandre01/nlw-03-happy/network/members)
 [![Contributors](https://img.shields.io/github/contributors/marioandre01/nlw-03-happy?color=ff9000&style=flat-square)](https://github.com/marioandre01/nlw-03-happy/graphs/contributors)
-![](https://img.shields.io/github/license/karlos-silva/nlw-happy?style=plastic)
+[![Licence](https://img.shields.io/github/license/marioandre01/nlw-03-happy?style=flat-square)]
+
+
+<h1 align="center">
+    <img alt="Happy" title="Happy" src="imgs/logo_happy.png" />
+</h1>
 
 <p align="center"> 
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
