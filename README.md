@@ -7,6 +7,7 @@
 [![Stars](https://img.shields.io/github/stars/marioandre01/nlw-03-happy?color=ff9000&style=flat-square)](https://github.com/marioandre01/nlw-03-happy/stargazers)
 [![Forks](https://img.shields.io/github/forks/marioandre01/nlw-03-happy?color=%23ff9000&style=flat-square)](https://github.com/marioandre01/nlw-03-happy/network/members)
 [![Contributors](https://img.shields.io/github/contributors/marioandre01/nlw-03-happy?color=ff9000&style=flat-square)](https://github.com/marioandre01/nlw-03-happy/graphs/contributors)
+![](https://img.shields.io/github/license/karlos-silva/nlw-happy?style=plastic)
 
 <p align="center"> 
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
