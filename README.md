@@ -55,7 +55,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
   <img alt="Happy Web" title="Happy Web" src="imgs/pagina_inicial.png" width="400px">
   <img alt="Happy Web" title="Happy Web" src="imgs/pagina_mapa_orfanatos.png" width="400px">
    <img alt="Happy Web" title="Happy Web" src="imgs/pagina_cadastro.png" width="400px">
-   <img alt="Happy Web" title="Happy Web" src="imgs/pagina_orfanato.png" width="400px">
+   <img alt="Happy Web" title="Happy Web" src="imgs/page_orphanage.png" width="400px">
 </p>
 
 ### 📱 Mobile 
