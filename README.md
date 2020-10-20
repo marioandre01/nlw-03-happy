@@ -165,8 +165,7 @@ Instale as dependências
 
 $ yarn
 
-# ou, caso use npm
-
+# ou pelo npm
 $ npm install
 
 ```
@@ -177,8 +176,7 @@ Rode o mobile
 
 $ yarn start
 
-# ou, caso use npm
-
+# ou pelo npm
 $ npm start
 
 ```
@@ -201,7 +199,7 @@ Depois de fazer isso, irá abrir o metro bundler no seu navegador. A partir de a
 
 <br>
 
-Se tudo deu certo, o app deve estar disponível agora! 👩🏽‍🔧
+Se tudo deu certo, o app deve estar disponível agora!
 -->
 
 ## :gear: Contribuição
