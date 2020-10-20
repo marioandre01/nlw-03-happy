@@ -139,7 +139,7 @@ $ yarn dev
 $ npm dev
 
 ```
-## ⚙️ Contribuição
+## Contribuição
 
 Para contribuir com esse projeto faça os seguintes passos:
 
