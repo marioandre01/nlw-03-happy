@@ -137,8 +137,8 @@ $ yarn dev
 
 # ou pelo npm
 $ npm dev
-
 ```
+
 ## Contribuição
 
 Para contribuir com esse projeto faça os seguintes passos:
