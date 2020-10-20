@@ -63,7 +63,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 ### 📱 Mobile 
 <p align="center">
-  <img alt="Happy Web" title="Happy Web" src="imgs/tela-mobile-happy.png" width="400px">
+  <img alt="Happy Web" title="Happy Web" src="imgs/tela-mobile-happy.png" width="600px">
 </p>
 
 ## 💻 Executando a aplicação Happy
@@ -147,17 +147,21 @@ $ npm dev
 
 Para contribuir com esse projeto faça os seguintes passos:
 
-- Faça um fork desse repositório;
+- Faça um fork desse repositório.
 - Crie uma branch com a sua feature: 
 ```bash
-git checkout -b minha-feature
+git checkout -b minha_feature
 ```
 - Faça um commit das suas modificações: 
-`git commit -m 'feat: Minha nova feature'`;
+```bash
+git commit -m 'feat: Minha nova feature
+```
 - Faça um push para a sua branch: 
-`git push origin minha-feature`.
+```bash
+git push origin minha_feature
+```
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./README.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
