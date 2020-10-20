@@ -139,9 +139,11 @@ $ yarn dev
 $ npm dev
 ```
 
-<!--
-### 📱 Rodando o Happy mobile 
 
+### 📱 Executando o Happy mobile 
+
+Em breve...
+<!--
 Entre na pasta
 
 ```bash
