@@ -63,7 +63,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 ### 📱 Mobile 
 <p align="center">
-  <img alt="Happy Web" title="Happy Web" src="imgs/tela-mobile-happy.png" width="600px">
+  <img alt="Happy Web" title="Happy Web" src="imgs/tela-mobile-happy.png" width="800px">
 </p>
 
 ## 💻 Executando a aplicação Happy
@@ -163,5 +163,5 @@ git push origin minha_feature
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes.
 
