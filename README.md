@@ -42,20 +42,24 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - Yup
 - Cors
 
-#### mobile:
-[React Native](https://facebook.github.io/react-native/)
-[Expo](https://expo.io/)
+#### Mobile:
+- [React Native](https://facebook.github.io/react-native/)
+- Typescript
+- React Native Maps
+- React Navigation
+- React Navigation Stack
+- [Expo](https://expo.io/)
  
 ## 🎨 Layout
 
-### Web 💻
+### 💻 Web 
 
 <p align="center">
   <img alt="Happy Web" title="Happy Web" src="imgs/pagina_inicial.png" width="400px">
    <img alt="Happy Web" title="Happy Web" src="imgs/pagina_mapa_orfanatos.png" width="400px">
 </p>
 
-### Mobile 📱
+### 📱 Mobile 
 Em desenvolvimento...
 
 ## 💻 Executando a aplicação Happy
@@ -76,7 +80,7 @@ $ cd nlw-03-happy
 ```
 ### 💻 Executando o Happy web
 
-Entre na pasta
+Entre na pasta web
 
 ```bash
 
@@ -101,13 +105,12 @@ Execute a aplicação
 $ yarn start
 
 # ou pelo npm
-
 $ npm start
 
 ```
 ### 🌐 Executando o Servidor
 
-Entre na pasta
+Entre na pasta backend
 
 ```bash
 
@@ -137,6 +140,18 @@ $ yarn dev
 $ npm dev
 
 ```
+
+<h2 id="contribuir"> ⚙️ Contribuição </h2>
+
+Para contribuir com esse projeto faça os seguintes passos:
+
+- Faça um fork desse repositório;
+- Crie uma branch com a sua feature: 
+`git checkout -b minha-feature`;
+- Faça um commit das suas modificações: 
+`git commit -m 'feat: Minha nova feature'`;
+- Faça um push para a sua branch: 
+`git push origin minha-feature`.
 
 ## :memo: Licença
 
