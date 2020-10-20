@@ -1,12 +1,6 @@
 <h1 align="center">
     <img alt="Happy" title="Happy" src="imgs/logo_happy.png" />
 </h1>
-<p align="center">
-    ![](https://img.shields.io/github/license/marioandre01/nlw-03-happy)
-    ![](https://img.shields.io/github/forks/marioandre01/nlw-03-happy)
-    ![](https://img.shields.io/github/stars/marioandre01/nlw-03-happy)
-</p>
-
 
 <p align="center"> 
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
