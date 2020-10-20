@@ -56,11 +56,15 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 <p align="center">
   <img alt="Happy Web" title="Happy Web" src="imgs/pagina_inicial.png" width="400px">
-   <img alt="Happy Web" title="Happy Web" src="imgs/pagina_mapa_orfanatos.png" width="400px">
+  <img alt="Happy Web" title="Happy Web" src="imgs/pagina_mapa_orfanatos.png" width="400px">
+   <img alt="Happy Web" title="Happy Web" src="imgs/pagina_cadastro.png" width="400px">
+   <img alt="Happy Web" title="Happy Web" src="imgs/pagina_orfanato.png" width="400px">
 </p>
 
 ### 📱 Mobile 
-Em desenvolvimento...
+<p align="center">
+  <img alt="Happy Web" title="Happy Web" src="imgs/tela-mobile-happy.png" width="400px">
+</p>
 
 ## 💻 Executando a aplicação Happy
 
@@ -124,7 +128,6 @@ Instale as dependências
 $ yarn
 
 # ou pelo npm
-
 $ npm install
 
 ```
@@ -136,7 +139,6 @@ Execute o servidor
 $ yarn dev
 
 # ou pelo npm
-
 $ npm dev
 
 ```
@@ -147,7 +149,9 @@ Para contribuir com esse projeto faça os seguintes passos:
 
 - Faça um fork desse repositório;
 - Crie uma branch com a sua feature: 
-`git checkout -b minha-feature`;
+```bash
+git checkout -b minha-feature
+```
 - Faça um commit das suas modificações: 
 `git commit -m 'feat: Minha nova feature'`;
 - Faça um push para a sua branch: 
@@ -155,5 +159,5 @@ Para contribuir com esse projeto faça os seguintes passos:
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./README.md) para mais detalhes.
 
