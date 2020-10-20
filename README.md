@@ -16,12 +16,12 @@
 </p>
 
 ## 💻 Projeto
-Este projeto foi construído durante a terceira edição do evento Next Level Week - nlw-03 da [Rocketseat](https://rocketseat.com.br/).
-O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional (orfanatos) para fazer o dia de muitas crianças mais feliz! 😄 :heart:
+Este projeto foi desenvolvido durante a 3º edição do evento Next Level Week - nlw-03 da [Rocketseat](https://rocketseat.com.br/).
+O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional (Orfanatos) para fazer o dia de muitas crianças mais feliz! 😄 :heart:. A proposta de desenvolvimento foi em fazer a aplicação para o ambiente web e mobile. A versão web foi finalizada, mas a versão mobile ainda vai ser desenvolvida.
 
 ## 📋 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+O projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
@@ -29,39 +29,37 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <!-- - [React Native](https://facebook.github.io/react-native/) -->
 <!-- - [Expo](https://expo.io/) -->
 
-#### Web:
+#### Web - Frontend:
+- ReactJS 
 - Typescript
-- ReactJS ⚛️
-- React Router Dom
 - React Icons
-- Leaflet 🍃
-- API do Mapbox 🗺️
+- React Router Dom
+- Leaflet 
+- API do Mapbox 
 - Axios
 
 #### Backend:
- - Typescript
- - NodeJS
- - Express
- - Express Async Errors
- - TypeORM
- - SQLite
- - Multer
- - Yup
- - Cors
-
+- NodeJS
+- Express
+- Typescript
+- Express Async Errors
+- TypeORM
+- SQLite
+- Multer
+- Yup
+- Cors
+ 
 ## 🎨 Layout
 
 ### Web 💻
 
 <p align="center">
-  <img alt="Happy Web" title="Happy Web" src="./assets/landing.png" width="400px">
+  <img alt="Happy Web" title="Happy Web" src="imgs/pagina_inicial.png" width="400px">
+   <img alt="Happy Web" title="Happy Web" src="imgs/pagina_mapa_orfanatos.png" width="400px">
 </p>
 
 ### Mobile 📱
-
-<p align="center">
-  <img alt="Happy Mobile" title="Happy Mobile" src="./assets/splash-screen-mobile.png" width="300px">
-</p>
+Em desenvolvimento...
 
 ## 💻 Executando o Happy
 
