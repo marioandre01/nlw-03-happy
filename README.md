@@ -213,7 +213,7 @@ git checkout -b minha_feature
 ```
 - Faça um commit das suas modificações: 
 ```bash
-git commit -m 'feat: Minha nova feature
+git commit -m "feat: Minha nova feature"
 ```
 - Faça um push para a sua branch: 
 ```bash
