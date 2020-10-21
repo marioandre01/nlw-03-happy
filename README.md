@@ -144,7 +144,7 @@ Execute o servidor
 $ yarn dev
 
 # ou pelo npm
-$ npm dev
+$ npm run dev
 ```
 
 
